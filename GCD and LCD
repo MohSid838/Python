@@ -1,0 +1,9 @@
+class Solution:
+    def fingcd(a,b):
+        x,y=a,b
+        while y!=0:
+            x,y=y,x%y
+        gcd=x
+        lcm=(a*b)//gcd
+        return[gcd,lcm]
+print(Solution.fingcd(12,18))
