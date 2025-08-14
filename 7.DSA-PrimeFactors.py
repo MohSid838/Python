@@ -18,8 +18,7 @@ def uniqeprime(n):
 #if reminder is prime
     if n>1:
      factors.append(n)
-    return factors
-    
+    return factors    
 # quick tests
 print(uniqeprime(60))  # [2, 3, 5]
 print(uniqeprime(84))  # [2, 3, 7]
