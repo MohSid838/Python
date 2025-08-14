@@ -7,3 +7,4 @@ class Solution:
         lcm=(a*b)//gcd
         return[gcd,lcm]
 print(Solution.fingcd(12,18))
+#find new

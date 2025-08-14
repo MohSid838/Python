@@ -24,3 +24,4 @@ print(uniqeprime(60))  # [2, 3, 5]
 print(uniqeprime(84))  # [2, 3, 7]
 print(uniqeprime(97))  # [97]
 print(uniqeprime(1))   # []
+#find new

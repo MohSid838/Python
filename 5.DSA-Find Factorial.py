@@ -15,4 +15,4 @@ def factor(x:int):
         fact=fact*y
     return fact==x
 print(factor(120))
-#find
+#find new
