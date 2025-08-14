@@ -19,7 +19,7 @@ def uniqeprime(n):
     if n>1:
      factors.append(n)
     return factors    
-# quick tests
+# quick tests1
 print(uniqeprime(60))  # [2, 3, 5]
 print(uniqeprime(84))  # [2, 3, 7]
 print(uniqeprime(97))  # [97]

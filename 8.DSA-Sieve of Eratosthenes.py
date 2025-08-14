@@ -11,3 +11,4 @@ def sieveof_eratosthenes(n):
             primes.append(i)
     return primes
 print(sieveof_eratosthenes(30))
+#print
