@@ -1,1 +1,2 @@
-z=print(1+5)
+import sys
+print("Python version:", sys.version)
